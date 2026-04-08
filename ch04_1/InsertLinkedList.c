@@ -50,7 +50,7 @@ void insertMiddleNode(linkedList_h* L, listNode* pre, char* x) {
 	}
 }
 
-// 마지막 노드로 삽입하는 연산 
+
 void insertLastNode(linkedList_h* L, char* x) {
 	listNode* newNode;
 	listNode* temp;
